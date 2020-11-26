@@ -1,0 +1,3 @@
+Link for CNN report- https://colab.research.google.com/drive/1GxHUK_lYsqA3YGl_Ts4SltuB5q7tVE4L?usp=sharing
+
+Link for autoencoder report- https://colab.research.google.com/drive/1_qcXU7SAz_ZQjyYU9bw3jxThv6E6d30V?usp=sharing
